@@ -1,2 +1,2 @@
 image:
-  file: ./latest/
+  file: ./latest/Dockerfile.amd64
